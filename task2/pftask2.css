@@ -1,0 +1,21 @@
+.div{
+    margin: 124px;
+    margin-left: 304px;
+   
+}
+#form{
+   
+    text-align: center;
+    height: 100%;
+    width: 50%;
+    color: white;
+    
+    /* background-image: url(1.png); */
+    background-color: rgb(43, 214, 226);
+    border-radius: 15px;
+}
+.text{
+    
+    margin: 22px;
+    margin-left: 24px;
+}
